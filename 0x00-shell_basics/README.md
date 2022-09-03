@@ -1,1 +1,1 @@
-0. Prints absolute path
+This directory stores executable files
